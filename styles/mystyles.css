@@ -1,0 +1,49 @@
+.ul ul{
+    list-style-type: none;
+}
+
+
+.anchor li{
+    float: left; 
+}
+
+#paddingTopBottom{
+    margin-top: 50px;
+    margin-bottom: 75px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a:visited {
+    color: rgb(153, 207, 72);
+}
+
+.hover:hover {
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+#hover:hover {
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+.italics {
+    font-style: italic;
+}
+
+.green {
+    color: rgb(153, 207, 72);
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.justify {
+    text-align: center;
+}
